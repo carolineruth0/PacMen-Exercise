@@ -1,6 +1,6 @@
 Title: PacMen Exercise
 
-Description: This project shows a PacMen go back and forth across the screen. The files in this project contain code provided by the Full Stack Development with MERN course.
+Description: This project shows a PacMen go back and forth across the screen. The files in this project contain code provided by the Full Stack Development with MERN course with edits by me.
 
 How to run: Download and then drag and drop the HTML file on the browser.
 
